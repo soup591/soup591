@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soup591
 - 👀 I’m interested in ... learning how to program and changing careers.
 - 🌱 I’m currently learning ... Python 3!
-- 💞️ I’m looking to collaborate on ... beginner projects to practice my very limited (but hopefully improving) Python knowledge.
+- 💞️ I’m looking to collaborate on ... beginner projects to practice my very limited (but improving) Python skills.
 - 📫 How to reach me ... on here!
 
 <!---
