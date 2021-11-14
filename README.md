@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @soup591
-- 👀 I’m interested in improving my programming skill and changing careers.
-- 🌱 I’m currently learning Python 3, various frameworks and associated libraries!
-- 💞️ I’m looking to collaborate on beginner projects to practice Python skills.
+- 👋 Hi, I’m @soup591 (Ryan !)
+- 👀 I’m interested in creating unique, personal projects which allow me to improve my abilities while being extremely engaging.
+- 🌱 I’m currently learning Python 3 with various frameworks (including but not limited to Flask, Django, etc), SQL / Oracle, and HTML/CSS/JavaScript.
+- 💞️ I’m looking to collaborate on projects with other dedicated learners and improve out abilities together!
 
 
-<!---
-soup591/soup591 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
